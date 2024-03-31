@@ -1,0 +1,17 @@
+
+URL:  https://www.youtube.com/watch?v=OzydmLkaKqQ&t=1067s
+
+
+ Packages: 
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.16.0
+  firebase_auth: ^4.10.0
+  cloud_firestore: ^4.9.2
+  sliding_up_panel: ^2.0.0+1
+  firebase_storage: ^11.3.1
+  image_picker: ^1.0.4
+   
+  assets:
+    - assets/
+
+
